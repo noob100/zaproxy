@@ -56,6 +56,7 @@ public class SpiderController implements SpiderParserListener {
 	
 	//HELLO FROM GITHUB
 	//hello again
+	//hello from Eclipse!
 
 	/** The fetch filters used by the spider to filter the resources which are fetched. */
 	private LinkedList<FetchFilter> fetchFilters;
