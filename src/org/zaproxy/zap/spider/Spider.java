@@ -56,7 +56,7 @@ import org.zaproxy.zap.users.User;
 public class Spider {
 
 	//HELLO WORLD
-	//HELLO WORLD 2S
+	//HELLO WORLD 2
 	
 	/** The spider parameters. */
 	private SpiderParam spiderParam;
